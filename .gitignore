@@ -1,0 +1,21 @@
+.#
+# Git ignore file
+#
+bash_login
+.idea
+.coverage
+.DS_Store
+.work
+*.log
+*.pyc
+*.crt
+*.pem
+*.key
+*.csr
+*.pid
+*.ini
+ignore.*
+*.swp
+*.swo
+*.egg-info
+.eggs
